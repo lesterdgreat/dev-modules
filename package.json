@@ -1,0 +1,26 @@
+{
+  "name": "dev-modules",
+  "version": "0.2.6",
+  "description": "Sample app that converts farenheit to celsius and vice versa",
+  "engines": {
+    "node": "6.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "3.10.8",
+    "express": "3.10.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lesterdgreat/dev-modules"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
