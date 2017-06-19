@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "express": "5.0.0-alpha.5",
-    "body-parser" : "5.0.0-alpha.5"
+    "body-parser": "~1.10.1"
   },
   "repository": {
     "type": "git",
