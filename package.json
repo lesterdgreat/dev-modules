@@ -1,7 +1,7 @@
 {
   "name": "sample nodejs api",
   "version": "1.0.0",
-  "description" : "this will receive a message and send http ok",
+  "description": "this will receive a message and send http ok",
   "engines": {
     "node": "6.9.1"
   },
@@ -10,8 +10,8 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "5.0.0-alpha.5",
-    "body-parser": "~1.10.1"
+    "body-parser": "~1.10.1",
+    "express": "^4.15.3"
   },
   "repository": {
     "type": "git",
